@@ -5,7 +5,12 @@ description: "This resource contains information related to Regardez le document
   \ indiqu\xE9 page 2*."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/1924c1521d16c2988461c62181f0cb7c_MIT21G_315F11_hmkwk10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Week 10 Homework
+type: OCWFile
 uid: 1924c152-1d16-c298-8461-c62181f0cb7c
 ---

@@ -6,7 +6,12 @@ description: "This resource contains information related to Vu dans l\u2019actua
   \ comment proc\xE9der."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/b5e5f72358bbe220369b6e89cd6cb3c8_MIT21G_315F11_hmkwk5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Week 5 Homework '
+type: OCWFile
 uid: b5e5f723-58bb-e220-369b-6e89cd6cb3c8
 ---

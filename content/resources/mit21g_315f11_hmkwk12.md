@@ -5,7 +5,12 @@ description: "This resource contains information related to Lisez les pages 228 
   \ pages 4* et 5*."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/b79b814b10052dcb52ac72b2af3e206c_MIT21G_315F11_hmkwk12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Week 12 Homework
+type: OCWFile
 uid: b79b814b-1005-2dcb-52ac-72b2af3e206c
 ---

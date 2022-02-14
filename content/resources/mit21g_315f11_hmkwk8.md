@@ -4,7 +4,12 @@ description: "This resource contains information related to Lisez dans Les Fran\
   ais les pages 210 \xE0 220. R\xE9pondez aux questions page 2*."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/b425f71ad4d9cc343caa65402ac6d4fc_MIT21G_315F11_hmkwk8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Week 8 Homework
+type: OCWFile
 uid: b425f71a-d4d9-cc34-3caa-65402ac6d4fc
 ---

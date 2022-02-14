@@ -7,7 +7,12 @@ description: "This resource contains information related to Petit test, pendant 
   \ premier test."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/780f74dcc27e2dae5083b383efad884c_MIT21G_315F11_hmkwk9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Week 9 Homework
+type: OCWFile
 uid: 780f74dc-c27e-2dae-5083-b383efad884c
 ---

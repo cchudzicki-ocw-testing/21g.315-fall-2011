@@ -6,7 +6,12 @@ description: "This resource contains information related top les symboles. Regar
   \ besoin pour vous aider."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21g-315-cross-cultural-perspectives-on-contemporary-french-society-fall-2011/c07a18da00fcd92604e298bcc753247c_MIT21G_315F11_hmkwk3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Week 3 Homework
+type: OCWFile
 uid: c07a18da-00fc-d926-04e2-98bcc753247c
 ---
