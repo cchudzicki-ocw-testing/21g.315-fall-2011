@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Week 8 Homework
-type: OCWFile
 uid: b425f71a-d4d9-cc34-3caa-65402ac6d4fc
 ---

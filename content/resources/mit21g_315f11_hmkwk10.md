@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Week 10 Homework
-type: OCWFile
 uid: 1924c152-1d16-c298-8461-c62181f0cb7c
 ---

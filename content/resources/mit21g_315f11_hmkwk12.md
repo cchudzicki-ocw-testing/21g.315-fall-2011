@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Week 12 Homework
-type: OCWFile
 uid: b79b814b-1005-2dcb-52ac-72b2af3e206c
 ---

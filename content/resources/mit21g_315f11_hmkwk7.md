@@ -12,6 +12,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Week 7 Homework '
-type: OCWFile
 uid: db092762-77e7-104c-605a-656c7e79f622
 ---

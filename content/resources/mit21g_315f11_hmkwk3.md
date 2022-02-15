@@ -12,6 +12,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Week 3 Homework
-type: OCWFile
 uid: c07a18da-00fc-d926-04e2-98bcc753247c
 ---

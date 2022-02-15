@@ -13,6 +13,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Week 9 Homework
-type: OCWFile
 uid: 780f74dc-c27e-2dae-5083-b383efad884c
 ---

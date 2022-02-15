@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Week 13 Homework
-type: OCWFile
 uid: 3735b9d2-d252-65c7-8522-d3cb866a1762
 ---

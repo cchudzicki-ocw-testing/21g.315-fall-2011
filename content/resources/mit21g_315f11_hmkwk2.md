@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Week 2 Homework
-type: OCWFile
 uid: 4451e519-aec3-fe92-aa24-4233a644d9fd
 ---
