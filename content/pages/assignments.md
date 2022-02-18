@@ -49,7 +49,7 @@ None
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk2))
+({{< resource_link 4451e519-aec3-fe92-aa24-4233a644d9fd "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +76,7 @@ None
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk3))
+({{< resource_link c07a18da-00fc-d926-04e2-98bcc753247c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +103,7 @@ None
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk4))
+({{< resource_link 19f2453b-3d84-716c-2861-1e46435584e1 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +131,7 @@ None
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk5))
+({{< resource_link b5e5f723-58bb-e220-369b-6e89cd6cb3c8 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +155,7 @@ None
 None (holiday)
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk6))
+({{< resource_link cfea3adf-6d1b-3ad5-14e8-f2fdeb2ff311 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,7 +182,7 @@ None (holiday)
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk7))
+({{< resource_link db092762-77e7-104c-605a-656c7e79f622 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -209,7 +209,7 @@ None (holiday)
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk8))
+({{< resource_link b425f71a-d4d9-cc34-3caa-65402ac6d4fc "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +236,7 @@ None (holiday)
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk9))
+({{< resource_link 780f74dc-c27e-2dae-5083-b383efad884c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +244,7 @@ None (holiday)
 {{< tdopen >}}
 
 
-*   Regardez sur [Readings]({{< baseurl >}}/pages/readings) l'enquête réalisée par la Fondation pour l'innovation politique sur "_Les jeunesses face à leur avenir_". Elle compare l'attitude des jeunes dans 17 pays. Les pages 104 à 112 parlent plus particulièrement des jeunes Français, et les pages 143 à 146 parlent des jeunes Américains. Répondez aux questions pages 2\* et 3\*.
+*   Regardez sur {{< resource_link bf6cc423-9170-9d2c-fd1b-8c8d645f6de3 "Readings" >}} l'enquête réalisée par la Fondation pour l'innovation politique sur "_Les jeunesses face à leur avenir_". Elle compare l'attitude des jeunes dans 17 pays. Les pages 104 à 112 parlent plus particulièrement des jeunes Français, et les pages 143 à 146 parlent des jeunes Américains. Répondez aux questions pages 2\* et 3\*.
 *   Regardez page 4\* la description du projet de fin de semestre. Notez par écrit page 4 deux sujets possibles sur lesquels vous aimeriez travailler.
 
 
@@ -264,7 +264,7 @@ None (holiday)
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk10))
+({{< resource_link 1924c152-1d16-c298-8461-c62181f0cb7c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +294,7 @@ None (holiday)
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk11))
+({{< resource_link 161d5576-52ee-1e79-b276-c91920cfc720 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -323,7 +323,7 @@ None (holiday)
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk12))
+({{< resource_link b79b814b-1005-2dcb-52ac-72b2af3e206c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -341,7 +341,7 @@ None (holiday)
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk13))
+({{< resource_link 3735b9d2-d252-65c7-8522-d3cb866a1762 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -369,7 +369,7 @@ None (holiday)
 
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-([PDF]({{< baseurl >}}/resources/mit21g_315f11_hmkwk14_15))
+({{< resource_link 950fcce9-9e8a-6b9c-129d-2dc128907764 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
